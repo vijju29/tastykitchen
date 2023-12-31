@@ -1,0 +1,200 @@
+{
+    "offers": [
+        {
+            "image_url": "https://assets.ccbp.in/frontend/react-js/restaurants-app-project/carousel-images-jammu-special.jpg",
+            "id": 1
+        },
+        {
+            "image_url": "https://assets.ccbp.in/frontend/react-js/restaurants-app-project/carousel-images-rajasthani-special.jpg",
+            "id": 2
+        },
+        {
+            "image_url": "https://assets.ccbp.in/frontend/react-js/restaurants-app-project/carousel-images-uttar-pradesh-special.jpg",
+            "id": 3
+        },
+        {
+            "image_url": "https://assets.ccbp.in/frontend/react-js/restaurants-app-project/carousel-images-north-indian-special.jpg",
+            "id": 4
+        }
+    ],
+    "restaurants": [
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Average",
+                "rating_color": "CDD614",
+                "total_reviews": 345,
+                "rating": 3.4
+            },
+            "id": "2200043",
+            "name": "Village Traditional Foods",
+            "has_table_booking": 0,
+            "is_delivering_now": 0,
+            "cost_for_two": 700,
+            "cuisine": "North Indian, Chinese",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/village-traditional-foods-2200043.jpg",
+            "menu_type": "VEG",
+            "location": "1-8-303, Sindhi Colony Rd, Sindhi Colony, Begumpet, Hyderabad, Telangana 500003",
+            "opens_at": "10:00 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "total_reviews": 461,
+                "rating": 3.5
+            },
+            "name": "BHotel Akbar",
+            "has_table_booking": 0,
+            "is_delivering_now": 0,
+            "cost_for_two": 500,
+            "cuisine": "North Indian, Chinese",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/b-hotel-akbar-2200044.jpg",
+            "id": "2200044",
+            "menu_type": "VEG",
+            "location": "Metro Pillar Number KUK39, 1-10-74, 1st Floor, Above Balaji Family Dhaba Hotel",
+            "opens_at": "09:00 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "total_reviews": 111,
+                "rating": 3.5
+            },
+            "name": "Hydarabad Spices",
+            "has_table_booking": 0,
+            "is_delivering_now": 0,
+            "cost_for_two": 400,
+            "cuisine": "Fast Food",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/hydarabad-spices-2200033.jpg",
+            "id": "2200033",
+            "menu_type": "VEG",
+            "location": "Parkview garden Appartments,Masabtank, Humayun Nagar, Hyderabad,",
+            "opens_at": "10:00 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "total_reviews": 94,
+                "rating": 3.7
+            },
+            "name": "New Hotel Akbar",
+            "has_table_booking": 0,
+            "is_delivering_now": 0,
+            "cost_for_two": 500,
+            "cuisine": "Fast Food",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/new-hotel-akbar-2200143.jpg",
+            "id": "2200143",
+            "menu_type": "VEG",
+            "location": "K P H B Phase 6, Kukatpally, Hyderabad",
+            "opens_at": "10:30 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "total_reviews": 276,
+                "rating": 3.8
+            },
+            "name": "Arunodaya Restuarent",
+            "has_table_booking": 0,
+            "is_delivering_now": 0,
+            "cost_for_two": 500,
+            "cuisine": "North Indian, Chinese",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/arunodaya-restaurant-2200132.jpg",
+            "id": "2200132",
+            "menu_type": "VEG",
+            "location": "NV Plaza, 4th Floor, Punjagutta Rd, Dwarakapuri, Punjagutta, Hyderabad",
+            "opens_at": "09:30 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "total_reviews": 192,
+                "rating": 3.8
+            },
+            "name": "Time Pass The Park Restaurent",
+            "has_table_booking": 0,
+            "location": "Hno. 1-98-9, plot no 23, Silicon Valley, Hyderabad,",
+            "is_delivering_now": 0,
+            "cost_for_two": 500,
+            "cuisine": "Fast Food",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/time-pass-the-park-restaurent-2200055.jpg",
+            "id": "2200055",
+            "menu_type": "NON-VEG",
+            "opens_at": "10:00 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "total_reviews": 71,
+                "rating": 3.8
+            },
+            "name": "Come and Eat",
+            "has_table_booking": 0,
+            "is_delivering_now": 0,
+            "cost_for_two": 400,
+            "cuisine": "Fast Food",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/come-and-eat-2200236.webp",
+            "id": "2200236",
+            "menu_type": "VEG",
+            "location": " Srinivasa Nagar, Ameerpet, Hyderabad,",
+            "opens_at": "11:00 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "total_reviews": 206,
+                "rating": 3.9
+            },
+            "name": "Hotel Sri Ganesh Bhavan",
+            "cost_for_two": 200,
+            "cuisine": "North Indian, Chinese",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/hotel-sriganesh-bhavan-2200045.jpg",
+            "id": "2200045",
+            "menu_type": "VEG",
+            "location": "Fortune Enclave, Sri Ram Nagar Colony, Banjara Hills, ",
+            "opens_at": "09:30 AM, Tomorrow",
+            "group_by_time": true
+        },
+        {
+            "has_online_delivery": true,
+            "user_rating": {
+                "rating_text": "Very Good",
+                "rating_color": "5BA829",
+                "total_reviews": 140,
+                "rating": 4.1
+            },
+            "name": "Cafe Madarassi",
+            "has_table_booking": 0,
+            "is_delivering_now": 0,
+            "cost_for_two": 150,
+            "cuisine": "Fast Food",
+            "image_url": "https://assets.ccbp.in/frontend/react-js/tasty-kitchens/restaurants/cafe-madarassi-2200153.jpg",
+            "id": "2200153",
+            "menu_type": "VEG",
+            "location": "Dubai colony rode no:1 pradhan mantri kusal kendra 4th floor, Hyderabad,",
+            "opens_at": "10:00 AM, Tomorrow",
+            "group_by_time": true
+        }
+    ]
+}
