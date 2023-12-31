@@ -4,6 +4,8 @@ const path = require("path");
 const dbPath = path.join(__dirname,"tastykitchen.db");
 const sqlite3 = require("sqlite3");
 const {open} = require("sqlite");
+const cors = require("cors")
+app.use(cors())
 
 let db = null
 
